@@ -10,7 +10,7 @@
 
 - [Simon Harrer](https://twitter.com/simonharrer)
 
-If you want to sign as well, open a PR to https://github.com/simonharrer/funops.org.
+If you want to sign as well, [add yourself to the list with a PR](https://github.com/simonharrer/funops.org/edit/main/README.md).
 
 <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt=""/></noscript>

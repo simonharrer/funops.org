@@ -10,6 +10,7 @@
 
 - [Simon Harrer](https://twitter.com/simonharrer)
 - [Martin Funk](https://twitter.com/funkattack)
+- [Alexander Huck](https://twitter.com/_alxndr13)
 
 If you want to sign as well, [add yourself to the list with a PR](https://github.com/simonharrer/funops.org/edit/main/README.md).
 

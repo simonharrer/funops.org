@@ -13,6 +13,7 @@
 - [Alexander Huck](https://twitter.com/_alxndr13)
 - [Pascal Euhus](https://twitter.com/pascal_euhus)
 - [Nikolas Hermann](https://twitter.com/nikolashermann)
+- [Jörn Auerbach](https://twitter.com/jo3rnsen)
 
 If you want to sign as well, [add yourself to the list with a PR](https://github.com/simonharrer/funops.org/edit/main/README.md).
 
